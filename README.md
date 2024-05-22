@@ -1,5 +1,3 @@
-# Pytorch-examples
-
 # PyTorch Training and Gradient Tracking Examples
 
 This repository contains examples demonstrating various functionalities of PyTorch, including training neural networks and gradient tracking. You can run these examples using Google Colab for an interactive experience.
