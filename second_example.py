@@ -1,3 +1,4 @@
+#PyTorch code for binary classification with a simple data set.
 import torch
 import torch.nn as nn
 import torch.optim as optim
